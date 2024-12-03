@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Lin Daiyu's homepage
 description: 一个抽象乐子人
+math_engine: MathJax
